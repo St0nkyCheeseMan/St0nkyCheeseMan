@@ -1,7 +1,5 @@
 - Hi, I’m Eric Zou.
 - I’m currently interested in AI, leetcoding and web dev.
-- I’m currently trying to learn MERN.
-- I’m looking to collaborate on hackathon projects.
 - Please reach out to ezou626@gmail.com if you're interested in working with me.
 
 <!---
