@@ -1,5 +1,5 @@
 - Hi, I’m Eric Zou.
-- I’m currently interested in AI, leetcoding and web dev.
+- I’m a computer engineering major at UPenn.
 - Please reach out to ezou626@gmail.com if you're interested in working with me.
 
 <!---
