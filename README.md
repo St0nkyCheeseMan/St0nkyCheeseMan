@@ -1,5 +1,5 @@
 - Hi, I’m Eric Zou.
-- I’m a computer engineering major at UPenn.
+- I’m a computer science major at UPenn.
 - Please reach out to ezou626@gmail.com if you're interested in working with me.
 
 <!---
